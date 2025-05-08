@@ -1,4 +1,5 @@
 #include <FreqCountESP.h>
+#include <var.h>
 
 double calcMass(){
 

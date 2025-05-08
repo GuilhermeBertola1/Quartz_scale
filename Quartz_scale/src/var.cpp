@@ -57,3 +57,13 @@ byte arrow_left[8] = {
     0b00000,
     0b00000
 };
+
+double diferenca_freq;
+double ressonancia_freq;
+double area_pizoeletrica;
+double densidade_quartz;
+double cisalhamento_quartz;
+double dierenca_massa;
+double coef_linear_quartz;
+double esp_filme_depositado;
+double densidade_filme_depositado;
